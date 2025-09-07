@@ -1,2 +1,14 @@
-# Commodities-market-analytics-forecasting
-A Python data analytics and forecasting project analyzing commodities prices using yFinance, FRED API, Prophet, and Plotly. Includes macroeconomic indicators and rig counts for better market analysis
+# Commodities Market Analytics & Forecasting
+
+A Python-based project analyzing and forecasting **commodity price movements** using data from **Yahoo Finance**, **FRED API**, and **Baker Hughes**.  
+The project uses **time series forecasting**, **macroeconomic indicators**, and **rig count data** for analysis.
+
+---
+
+## **Project Features**
+- Fetches real-time commodities data using **yFinance API**
+- Integrates **Nominal Broad Dollar Index** & **Weekly Economic Index** using **FRED API**
+- Cleans and processes **Baker Hughes rig count data**
+- Builds **interactive visualizations** using **Plotly**
+- Uses **Prophet** for 30-day commodity price forecasting
+
