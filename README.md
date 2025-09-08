@@ -1,6 +1,6 @@
 # Commodities Market Analytics & Forecasting
 
-A Python-based project analyzing and forecasting **commodity price movements** using data from **Yahoo Finance**, **FRED API**, and **Baker Hughes**.  
+A Python project analyzing and forecasting **commodity price movements** using data from **Yahoo Finance**, **FRED API**, and **Baker Hughes**.  
 The project uses **time series forecasting**, **macroeconomic indicators**, and **rig count data** for analysis.
 
 ---
